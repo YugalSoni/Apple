@@ -1,0 +1,57 @@
+body{
+    background-color: white ;
+    color: #06192F;
+    font-family: sans-serif;
+}
+
+*{
+    text-decoration: none;
+}
+
+#first{
+    text-align: center;
+}
+header{
+    text-align: center;
+}
+
+.fontcolor{
+    color: grey;
+}
+main{
+    text-align: center;
+}
+nav ul li {
+    list-style-type: none;
+}
+.navbar{
+    background-color: rgb(173, 170, 170);
+    font-family: sans-serif;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.navbar ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+/* .navdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+} */
+
+.image{
+   display: block;
+   margin: auto;
+  
+}
+li {
+    display: inline-block;
+    font-size: 18px;
+    width: 100px;
+    padding: 5px 5px;
+    text-align: center;
+    color: black;
+}
